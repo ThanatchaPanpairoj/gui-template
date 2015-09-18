@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=GUITemplateComponent(int,\ int)
+comment1.params=mouseX\ mouseY
+comment1.target=void\ updateMouse(int,\ int)
+comment2.params=
+comment2.target=void\ click()
+numComments=3
