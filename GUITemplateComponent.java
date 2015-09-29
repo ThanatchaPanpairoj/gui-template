@@ -19,6 +19,10 @@ public class GUITemplateComponent extends JComponent
         this.width = width;
         this.height = height;
     }
+    
+    public void paintComponent(Graphics g) {
+        Graphics2D g2 = (Graphics2D)g;
+    }
 
     public void updateMouse(int mouseX, int mouseY) {
         //
